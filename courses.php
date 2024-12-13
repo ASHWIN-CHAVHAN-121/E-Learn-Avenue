@@ -160,7 +160,7 @@ if (isset($_POST['btn_book'])) {
 			var uid = '<?php echo $_SESSION['id']; ?>';
 
 			var options = {
-				"key": "rzp_test_npXJkqj5ZMO5kG",
+				"key": "rzp_test_npXJkqj5ZMO5k",
 				"amount": amount * 100,
 				"currency": "INR",
 				"name": "E-Learn Avenue",
